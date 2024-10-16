@@ -1,6 +1,6 @@
 # Machine Learning Training
 ## Specializations
-## Project: Capstone Project - lassification algorithms.
+## Project: Capstone Project - classification algorithms.
 The project code is included in Project_IDS.ipynb file. This python jupyter notebook is created using python 3.6.
 Softwares and libraries used in this project:
 1. Pandas
