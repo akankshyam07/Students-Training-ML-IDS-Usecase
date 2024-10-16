@@ -1,7 +1,7 @@
-# Machine Learning Engineer Nanodegree
+# Machine Learning Training
 ## Specializations
-## Project: Capstone Project - Intrusion Detection System using machine learning classification algorithms.
-The project code is included in Project_Intrusion_detection.ipynb file. This python jupyter notebook is created using python 3.6.
+## Project: Capstone Project - lassification algorithms.
+The project code is included in Project_IDS.ipynb file. This python jupyter notebook is created using python 3.6.
 Softwares and libraries used in this project:
 1. Pandas
 2. Numpy
